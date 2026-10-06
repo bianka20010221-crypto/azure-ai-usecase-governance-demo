@@ -1,0 +1,8 @@
+{
+  "title": "Customer email classification",
+  "business_goal": "Route incoming requests to the correct support queue.",
+  "data_classification": "internal",
+  "decision_impact": "assistive",
+  "human_approval": true,
+  "owner": "Customer Operations"
+}

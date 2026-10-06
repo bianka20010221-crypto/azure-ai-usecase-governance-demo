@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.venv/
+local.settings.json
+.funcignore
+.env
+.env.*
+*.log
